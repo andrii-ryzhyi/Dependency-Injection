@@ -1,0 +1,9 @@
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\bin\Debug\Business.dll
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\bin\Debug\Business.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\bin\Debug\Data.dll
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\bin\Debug\Data.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\obj\Debug\Business.dll
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\obj\Debug\Business.pdb
