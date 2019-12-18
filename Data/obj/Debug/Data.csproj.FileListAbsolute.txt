@@ -3,3 +3,4 @@ C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Data\bin\Debug\Data.pdb
 C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
 C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Data\obj\Debug\Data.dll
 C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Data\obj\Debug\Data.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Data\obj\Debug\Data.csprojAssemblyReference.cache

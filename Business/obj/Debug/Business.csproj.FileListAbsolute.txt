@@ -7,3 +7,9 @@ C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\obj\Debug\Business.csproj
 C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\obj\Debug\Business.csproj.CopyComplete
 C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\obj\Debug\Business.dll
 C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\obj\Debug\Business.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\bin\Debug\Unity.Abstractions.dll
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\bin\Debug\Unity.Container.dll
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Andrii.Ryzhyi\source\repos\WithoutDI\Business\bin\Debug\Unity.Container.pdb

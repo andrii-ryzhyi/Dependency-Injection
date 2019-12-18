@@ -11,7 +11,8 @@ namespace Presentation
     {
         static void Main(string[] args)
         {
-            Initiator initiator = new Initiator();
+            Bootstrapper.Init();
+            Initiator initiator = DependencyInjector.Retrieve<Initiator>();
             string data = initiator.FetchData();
             Console.WriteLine(data);
             Console.ReadLine();
